@@ -1,0 +1,44 @@
+body {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: orangered;
+    
+}
+section {
+    background-color: lightblue;
+    text-align: left;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    height: 150px;
+}
+
+#aside1 {
+    background-color: yellow;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#aside2 {
+    background-color: violet;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer {
+    background-color: lightgreen;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
